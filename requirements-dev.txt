@@ -1,0 +1,5 @@
+pytest==9.1.1
+ruff==0.16.6
+jupytext==1.19.5
+nbconvert==7.17.2
+ipykernel==6.29.5

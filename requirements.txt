@@ -1,0 +1,11 @@
+numpy==2.2.4
+pandas==2.2.3
+pyarrow==20.0.0
+requests==2.32.3
+scikit-learn==1.7.0
+lightgbm==4.6.0
+scipy==1.15.2
+matplotlib==3.10.1
+plotly==6.5.0
+streamlit==1.46.1
+joblib==1.5.1

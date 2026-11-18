@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Raw API caches (re-downloadable)
+data/raw/
+cache/
+
+# Local config
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
