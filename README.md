@@ -125,6 +125,15 @@ python -m motogp_analytics.data --start 2013 --end 2026   # optional: refresh fr
 - The Moto2 and Moto3 classes are available from the same API (`category_prefix` in
   `build_dataset`) and could be used to model rider promotion.
 
+## Related projects
+
+- [f1-race-outcome-predictor](https://github.com/manookello/f1-race-outcome-predictor): the F1
+  counterpart of these race-outcome models.
+- [f1-vs-motogp-circuits](https://github.com/manookello/f1-vs-motogp-circuits): lap times at
+  shared circuits and which championship is more competitive.
+- [f1-tyre-strategy-analysis](https://github.com/manookello/f1-tyre-strategy-analysis): F1 tyre
+  degradation, a strategy simulator and telemetry.
+
 ---
 
 Data from the public motogp.com results service. This project is unofficial and not associated
